@@ -1,0 +1,1 @@
+first10.cmd "C:\Temp\SourcePath" "C:\Temp\DestPath"
